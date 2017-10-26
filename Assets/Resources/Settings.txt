@@ -1,0 +1,5 @@
+ShowTutorialTips = true
+MusicVolume =0
+EffectVolume =0.0
+WantMusic=False
+WantEffects=True
